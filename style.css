@@ -14,7 +14,7 @@ nav ul li{
 
 
 p{
-	font-size: 15px;
+	font-size: 14px;
 }
 
 header {
@@ -57,6 +57,7 @@ article img{
 }
 
 .about-1{
+	position:relative;
 	background-color: #ef494f;
 	height:100vh;
 	width: 50vw;
@@ -69,11 +70,20 @@ article img{
 
 }
 
+nav{
+	position: absolute;
+	bottom: 20px;
+	
+
+
+}
+
 
 
 .menu-2 li a{
 
 	color:white;
+
 
 }
 
@@ -94,7 +104,7 @@ article img{
 }
 
 h2 {
-	font-size: 25px;
+	font-size: 20px;
 }
 
 
@@ -106,7 +116,7 @@ h2 {
 	align-content: center;
 	padding-top: 30px;
 	padding-left: 50px;
-	font-size: 15px;
+	font-size: 14px;
 
 }
 
@@ -123,6 +133,7 @@ h2 {
 }
 
 .work-1{
+	position:relative;
 	background-color: white;
 	height:100vh;
 	width: 50vw;
@@ -165,6 +176,7 @@ h2 {
 
 
 .contacto-1{
+	position:relative;
 	background-color: #282828;
 	height:100vh;
 	width: 50vw;
