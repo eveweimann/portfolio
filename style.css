@@ -1,0 +1,234 @@
+.menu-basico li {
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.menu-basico a {
+    text-decoration: none;
+}
+
+
+nav ul li{
+	float: bottom;
+}
+
+
+p{
+	font-size: 15px;
+}
+
+header {
+	background-color: #282828;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	text-decoration-style: none;
+
+}
+
+
+h3{
+	font-family: 'Montserrat';
+	text-align: center;
+	color:#ef494f ;
+
+
+}
+
+article img{
+	height: 75vh;
+
+}
+
+
+
+
+.menu-ppal li a{
+	color:#ef494f;
+
+}
+
+
+.about{
+	display: flex;
+
+}
+
+.about-1{
+	background-color: #ef494f;
+	height:100vh;
+	width: 50vw;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	text-decoration-color: white;
+
+
+}
+
+
+
+.menu-2 li a{
+
+	color:white;
+
+}
+
+
+
+
+.about-2 {
+	background-color:white;
+	height: 100vh;
+	width: 50vw;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	
+
+}
+
+h2 {
+	font-size: 25px;
+}
+
+
+.texto{
+	width: 75vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	padding-top: 30px;
+	padding-left: 50px;
+	font-size: 15px;
+
+}
+
+.texto ul li {
+	padding-left: 15px;
+}
+
+
+
+
+.work{
+	display: flex;
+	
+}
+
+.work-1{
+	background-color: white;
+	height:100vh;
+	width: 50vw;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+
+
+}
+
+.menu-3 li a{
+    color: black;
+}
+
+
+.work-2 {
+
+	background-color:white;
+	height: 100vh;
+	width: 50vw;
+	overflow-y: scroll;
+	overflow-x: hidden;
+
+
+		}
+
+.imagen-scroll{
+	max-width: 100%;
+
+
+}
+
+
+
+
+.contact{
+	display: flex;
+}
+
+
+.contacto-1{
+	background-color: #282828;
+	height:100vh;
+	width: 50vw;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	
+}
+
+
+
+.menu-4 li a{
+
+	color:#ef494f;
+
+}
+
+
+
+
+.contacto-2 {
+	background-color: white;
+	height: 100vh;
+	width: 50vw;
+	display: flex;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.info{
+	position: absolute;
+	width: 75vh;
+	display: flex;
+	flex-direction: column;
+	padding-top: 50px;
+	padding-left: 50px;
+	
+
+
+}
+
+p a {
+	color: #ef494f;
+
+}
+
+.redes{
+	display: inline-block;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
